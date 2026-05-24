@@ -14,6 +14,7 @@ return {
   id = "calc",
   name = "Calculator",
   badge = "CALC",
+  stateless = true,
 
   commands = {
     calc = "search_calc",
